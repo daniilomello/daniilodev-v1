@@ -9,6 +9,8 @@
     "history": "^5.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-gtm-module": "^2.0.10",
+    "react-hotjar": "^2.2.1",
     "react-router-dom": "^6.0.0-beta.0",
     "react-scripts": "3.4.3",
     "styled-components": "^5.1.1",
