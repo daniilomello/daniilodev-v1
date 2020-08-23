@@ -54,5 +54,8 @@ export const AboutElement = styled.div`
         color: #64ffda;
       }
     }
+    @media (max-width: 23.75rem) {
+      grid-template-columns: 1fr;
+    }
   }
 `;

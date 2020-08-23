@@ -17,17 +17,17 @@ export const About = () => {
         <h2>Desenvolvedor Front-end</h2>
 
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Incidunt
-          natus vitae qui illo nisi a sunt expedita blanditiis beatae repellat
-          eius sapiente quidem ipsam dignissimos, exercitationem ab eligendi
-          placeat sit fugiat. Ea quasi atque ipsa ab sit enim eius autem
-          molestias, unde at nisi, laudantium quis quo provident, asperiores
-          consequatur!
+          Programador morando em Uberlândia MG. No momento estou trabalhando na
+          Agência R8 como desenvolvedor Front-end mas às vezes me pego no
+          back-end também, mas o que mais gosto de fazer é o Front, codar uma UI
+          e ver ela funcionando. Idealmente, adoro trabalhar em todas as etapas
+          da construção - desde os primeiros esboços, design, implementação até
+          o produto final.
         </p>
 
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          ipsa pariatur ratione sit molestiae quisquam aliquid id ad quas quos.
+          Atualmente, minha principal área de foco tem sido Wordpress & React,
+          mas sei um pouquinho sobre UI & UX Design também.
         </p>
 
         <p>
