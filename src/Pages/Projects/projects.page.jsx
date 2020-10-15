@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { Github } from '@styled-icons/boxicons-logos/Github';
 import { Link as ExternalLink } from '@styled-icons/entypo/Link';
-import { ProjectsPage } from './Style';
+import { ProjectsPage } from './projects.style';
 
 export const Projects = () => {
   return (

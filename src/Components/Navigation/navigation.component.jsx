@@ -1,5 +1,5 @@
 import React from 'react';
-import { Nav, NavItem, NavItemA } from './Style';
+import { Nav, NavItem, NavItemA } from './navigation.style';
 
 export const Navigation = () => {
   return (
@@ -10,7 +10,7 @@ export const Navigation = () => {
         <p>Veja os projetos que eu desenvolvi ou participei.</p>
       </NavItem>
       <NavItemA
-        href="https://api.whatsapp.com/send?phone=5534999489654"
+        href="https://api.whatsapp.com/send?phone=5534984424459"
         title="Fale comigo"
         target="_blank"
         rel="noopener noreferrer"

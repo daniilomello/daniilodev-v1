@@ -1,6 +1,7 @@
 import React from 'react';
-import { AboutElement } from './Style';
-import { SocialIcons } from '../SocialIcons/SocialIcons';
+import { AboutElement } from './about.style';
+import { SocialIcons } from '../SocialIcons/social-icons.component';
+import Avatar from '../../assets/eu.jpg';
 
 export const About = () => {
   return (
@@ -8,8 +9,8 @@ export const About = () => {
       <AboutElement>
         <figure>
           <img
-            src="https://scontent.fudi2-1.fna.fbcdn.net/v/t1.0-9/60325014_150888739376533_981352116775813120_o.jpg?_nc_cat=103&_nc_sid=174925&_nc_ohc=4S5dff8MN7IAX-GyYOo&_nc_ht=scontent.fudi2-1.fna&oh=fec1ccfd22d3ccf4349d6fb76011f597&oe=5F67FF74"
-            alt="Avatar"
+            src={Avatar}
+            alt="Foto do Danilo"
           />
         </figure>
         <h1>Danilo Mello</h1>

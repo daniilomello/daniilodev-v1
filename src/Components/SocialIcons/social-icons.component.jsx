@@ -1,5 +1,5 @@
 import React from 'react';
-import { IconsWrapper, IconsList, IconsItem } from './Style';
+import { IconsWrapper, IconsList, IconsItem } from './social-icons.style';
 import links from './content';
 import Icons from './Icons';
 

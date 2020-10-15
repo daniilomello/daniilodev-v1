@@ -1,11 +1,11 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import { Home } from './Pages/Home/Home';
-import { Contact } from './Pages/Contact/Contact';
-import { Process } from './Pages/Process/Process';
-import { Resume } from './Pages/Resume/Resume';
-import { Projects } from './Pages/Projects/Projects';
-import { NotFound } from './Pages/404/404';
+import { Home } from './Pages/Home/home.page';
+import { Contact } from './Pages/Contact/contact.page.jsx';
+import { Process } from './Pages/Process/process.page.jsx';
+import { Resume } from './Pages/Resume/page.resume';
+import { Projects } from './Pages/Projects/projects.page';
+import { NotFound } from './Pages/404/404.page';
 import './App.css';
 
 function App() {
