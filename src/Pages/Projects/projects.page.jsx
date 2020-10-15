@@ -1,7 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Github } from '@styled-icons/boxicons-logos/Github';
-import { Link as ExternalLink } from '@styled-icons/entypo/Link';
+import { ProjectItem } from '../../Components/ProjectItem/project-item.component';
 import { ProjectsPage } from './projects.style';
 
 export const Projects = () => {
@@ -28,39 +27,61 @@ export const Projects = () => {
           </tr>
         </thead>
         <tbody>
-          <tr>
-            <td className="name">Personal Website</td>
-            <td className="company hide-mobile"> — </td>
-            <td className="tech hide-mobile">
-              <span>
-                React<span className="separator">·</span>
-              </span>
-              <span>Styled-Components</span>
-            </td>
-            <td className="links">
-              <span>
-                <a
-                  href="https://github.com/daniilomello"
-                  title="Personal Website github"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <Github />
-                </a>
-              </span>
-
-              <span>
-                <a
-                  href="https://daniilo.dev"
-                  title="Personal Website"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <ExternalLink />
-                </a>
-              </span>
-            </td>
-          </tr>
+          <ProjectItem
+            name="Site Pessoal"
+            company="-"
+            tech="React · Styled-Components"
+            linkgit="https://github.com/daniilomello"
+            linksite="https://daniilo.dev"
+          />
+          <ProjectItem
+            name="Website Agência R8"
+            company="Agência R8"
+            tech="Front-end · Wordpress"
+            linksite="http://agenciar8.com.br/novo/"
+          />
+          <ProjectItem
+            name="Website To be Comunição"
+            company="To be Comunição"
+            tech="Front-end · Wordpress"
+            linksite="https://tobe.ppg.br/"
+          />
+          <ProjectItem
+            name="APP Uberlândia"
+            company="Agência R8"
+            tech="Front-end · Wordpress"
+            linksite="https://appuberlandia.com.br/"
+          />
+          <ProjectItem
+            name="Educadora FM"
+            company="To be Comunição"
+            tech="Front-end · Wordpress"
+            linksite="https://educadora909.com.br/"
+          />
+          <ProjectItem
+            name="Studio Gláucia"
+            company="Agência R8"
+            tech="Front-end · Woocommerce"
+            linksite="https://studioglauciaxavier.com.br/"
+          />
+          <ProjectItem
+            name="Paranaíba FM"
+            company="To be Comunição"
+            tech="Front-end · Wordpress"
+            linksite="https://paranaibafm.com.br/"
+          />
+          <ProjectItem
+            name="Joint Bee"
+            company="Agência R8"
+            tech="Front-end · Wordpress"
+            linksite="https://www.jointbee.com/"
+          />          
+          <ProjectItem
+            name="Palácio Motel"
+            company="To be Comunição"
+            tech="Front-end · Wordpress"
+            linksite="http://palaciomotel.com.br/"
+          />
         </tbody>
       </table>
     </ProjectsPage>
