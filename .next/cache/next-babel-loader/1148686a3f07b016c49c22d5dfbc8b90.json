@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\nimport LinkComponent from './link.styled';\n\nfunction Link({\n  url,\n  texto,\n  corTexto\n}) {\n  return /*#__PURE__*/_jsx(LinkComponent, {\n    href: url,\n    corTexto: corTexto,\n    children: texto\n  });\n}\n\nexport default Link;","map":null,"metadata":{},"sourceType":"module"}

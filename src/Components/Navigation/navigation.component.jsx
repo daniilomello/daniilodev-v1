@@ -9,6 +9,18 @@ export const Navigation = () => {
         <h1>Projetos</h1>
         <p>Veja os projetos que eu desenvolvi ou participei.</p>
       </NavItem>
+
+      <NavItemA
+        href="https://blog.daniilo.dev/"
+        title="Blog"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <h6>Meus Artigos</h6>
+        <h1>Blog</h1>
+        <p>As vezes eu escrevo algumas coisas</p>
+      </NavItemA>
+      
       <NavItemA
         href="https://api.whatsapp.com/send?phone=5534984424459"
         title="Fale comigo"
