@@ -13,7 +13,6 @@ export const Navigation = () => {
       <NavItemA
         href="https://blog.daniilo.dev/"
         title="Blog"
-        target="_blank"
         rel="noopener noreferrer"
       >
         <h6>Meus Artigos</h6>
