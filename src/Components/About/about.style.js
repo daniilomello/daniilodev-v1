@@ -44,6 +44,16 @@ export const AboutElement = styled.div`
     }
   }
 
+  a{
+    color: #64ffda;
+    text-decoration: none;
+    transition: all 0.5s ease;
+    &:hover {
+      color: white;
+      transition: all 0.5s ease;
+    }
+  }
+
   ul {
     display: grid;
     grid-template-columns: 1fr 1fr;

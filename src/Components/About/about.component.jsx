@@ -18,17 +18,11 @@ export const About = () => {
         <h2>Desenvolvedor Front-end</h2>
 
         <p>
-          Programador morando em Uberlândia MG. No momento estou trabalhando na
-          Agência R8 como desenvolvedor Front-end mas às vezes me pego no
-          back-end também, mas o que mais gosto de fazer é o Front, codar uma UI
-          e ver ela funcionando. Idealmente, adoro trabalhar em todas as etapas
-          da construção - desde os primeiros esboços, design, implementação até
-          o produto final.
+          Desenvolvedor Front-end focado em React, com pouco conhecimento em Back-end com Node. Atualmente trabalhando na <a href="https://agenciar8.com.br" target="_blank" rel="noopener noreferrer" title="Site Agência R8">@agenciaR8</a>, e desenvolvendo um sistema para <a href="https://gabaritalab.com.br" target="_blank" rel="noopener noreferrer" title="Site Gabaritalab">@gabaritalab</a>.
         </p>
 
         <p>
-          Atualmente, minha principal área de foco tem sido Wordpress & React,
-          mas sei um pouquinho sobre UI & UX Design também.
+          Estudando Node e Typescript na <a href="https://www.rocketseat.com.br/" target="_blank" rel="noopener noreferrer" title="Site da Rocketseat">@rocketseat</a>.
         </p>
 
         <p>
@@ -42,7 +36,7 @@ export const About = () => {
             <span>▸ </span>HTML & (S)CSS
           </li>
           <li>
-            <span>▸ </span>React
+            <span>▸ </span>React & Node
           </li>
           <li>
             <span>▸ </span>Wordpress & PHP
