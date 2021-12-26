@@ -1,7 +1,7 @@
 import React from 'react';
 import { AboutElement } from './about.style';
 import { SocialIcons } from '../SocialIcons/social-icons.component';
-import Avatar from '../../assets/eu.jpg';
+import Avatar from '../../assets/profile.jpg';
 
 export const About = () => {
   return (
