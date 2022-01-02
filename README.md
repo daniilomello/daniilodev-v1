@@ -37,7 +37,7 @@ O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
 ## 💻 Projeto
 
-danillomello-website é perfeito para exibição minimalistad de um portfólio, você pode colocar um texto sobre você, exibir seus projetos e caso queira adicionar mais páginas, ele é completamente escalavel. 
+danillomello-website é perfeito para exibição minimalista de um portfólio, você pode colocar um texto sobre você, exibir seus projetos e caso queira adicionar mais páginas, ele é completamente escalavel. 
 
 
 ## 📝 License
