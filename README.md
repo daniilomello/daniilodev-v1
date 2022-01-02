@@ -1,10 +1,10 @@
 <p align="center">
-  <img alt="daniilomello-logo" src=".github/logo.svg" width="160px">
+  <img alt="daniilomello-logo" src=".github/logo.svg" width="80px">
 </p>
 
 
 <h1 align="center">
-    <img alt="daniilomello-cover" src=".github/cover.svg" />
+    <img alt="daniilomello-cover" src=".github/cover.png" />
 </h1>
 
 <br>
